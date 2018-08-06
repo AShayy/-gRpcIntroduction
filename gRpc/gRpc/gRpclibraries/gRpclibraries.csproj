@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Branch.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Helloworld.cs" />
     <Compile Include="HelloworldGrpc.cs" />
